@@ -10,7 +10,7 @@
 
 <body>
     <!-- Main content of website -->
-    <h1>GeeksforGeeks</h1>
+    <h1>My Name Is Leonard Phokane</h1>
     <p>A computer science portal for geeks</p>
 </body>
 
