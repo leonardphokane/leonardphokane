@@ -10,8 +10,8 @@
 
 <body>
     <!-- Main content of website -->
-    <h1>My Name Is Leonard Phokane</h1>
-    <p>A computer science portal for geeks</p>
+    <h1>Hello World!</h1>
+    <p>My First Program</p>
 </body>
 
 </html
