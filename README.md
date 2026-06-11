@@ -60,7 +60,7 @@ open index.html
 
 🌐 Portfolio: [Live Portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)  
 
-💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonardphokane)  
+💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonard-phokane)  
 
 🐙 GitHub: [github.com/leonardphokane](https://github.com/leonardphokane)
 
