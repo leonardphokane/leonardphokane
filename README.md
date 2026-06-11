@@ -1,7 +1,10 @@
 
 # 👋 Welcome to My GitHub Profile
 
-[Click here to view my live portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)
+## 🌐 View Live Demo
+
+👉 [Click here to view the live portfolio](https://leonardphokane.github.io/leonard-portfolio/)
+
 
 ---
 ## 🌌 The Arabic Journey
