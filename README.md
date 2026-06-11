@@ -19,10 +19,6 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
   - React, Flutter, Firebase, FastAPI  
   - MongoDB, Azure, AWS, Docker  
 
-- **Frameworks & Tools**  
-  - Visual Studio, Android Studio, GitHub, Canva  
-  - CI/CD pipelines with Docker, Jenkins, and cloud platforms (AWS, Azure, Oracle Cloud)
-
 ---
 
 ## 📂 Project Structure
@@ -45,16 +41,6 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
 Clone the repository and run locally:
 
 ```bash
-git clone https://github.com/leonardphokane/My_Portfolio.git
-cd My_Portfolio
+git clone https://github.com/leonardphokane/leonard-portfolio.git
+cd leonard-portfolio
 open index.html
-
-
----
-
-📬 Contact
-Email: leonardphokane1@gmail.com
-
-WhatsApp: +27 72 350 7514
-
-LinkedIn: https://www.linkedin.com/in/leonard-phokane/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiHqrm%2FaVQG62CpIdCOEsug%3D%3D
