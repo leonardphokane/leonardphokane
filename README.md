@@ -5,31 +5,7 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
 
 ---
 
-# 👋 Welcome to My GitHub Profile
 
-[Click here to view my live portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)
-
----
-
-## 🌌 The Arabic Journey
-![The Arabic Journey](https://github.com/leonardphokane/leonard-portfolio/blob/main/assets/the-arabic-journey.jpg)
-
-> *"When I'm gone, let my functions speak."*
-
----
-
-## 🧑‍💻 Who I Am
-I’m **Leonard Phokane** — Tech Founder of **UbuntuFlow Tech Labs**, Freelance Full‑Stack & Flutter Developer, and Oracle/Microsoft Certified AI Associate.  
-My academic journey spans **UNISA (BSc IT)**, **Power Learn Project Africa**, and certifications across **Oracle, Microsoft Azure, IBM, NVIDIA, and Otermans Institute**.  
-
-I specialize in:
-- 🌐 Scalable MERN & cloud‑native applications  
-- 🤖 Ethical AI & generative models  
-- ⚙️ CI/CD pipelines & DevOps architecture  
-- 📱 Mobile development with Dart & Flutter  
-- 🎨 Afro‑futurist storytelling through technology  
-
----
 
 ## ⚡ Setup
 Clone the repository and run locally:
