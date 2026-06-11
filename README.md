@@ -51,3 +51,16 @@ Clone the repository and run locally:
 git clone https://github.com/leonardphokane/leonard-portfolio.git
 cd leonard-portfolio
 open index.html
+
+--
+
+## 📬 Contact Me
+
+📧 Email: [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)  
+
+🌐 Portfolio: [Live Portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)  
+
+💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonardphokane)  
+
+🐙 GitHub: [github.com/leonardphokane](https://github.com/leonardphokane)
+
