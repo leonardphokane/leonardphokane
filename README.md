@@ -52,7 +52,7 @@ git clone https://github.com/leonardphokane/My_Portfolio.git
 cd My_Portfolio
 open index.html
 
-
+```
 ---
 
 ## 📬 Contact Me
