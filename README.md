@@ -5,8 +5,11 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
 
 ---
 
-🌐 View Live Demo
-👉 Click here to view the live portfolio
+## 🌐 View Live Demo
+
+👉 [Click here to view the live portfolio](https://leonardphokane.github.io/leonard-portfolio/)
+
+
 ---
 
 ## 🚀 Features
