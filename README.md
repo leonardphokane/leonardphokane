@@ -5,6 +5,10 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
 
 ---
 
+🌐 View Live Demo
+👉 Click here to view the live portfolio
+---
+
 ## 🚀 Features
 - **Licenses & Certifications**  
   - Microsoft Azure AI Essentials  
