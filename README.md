@@ -45,17 +45,15 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
 ---
 
 ## 🛠️ Setup
-# Clone the repository
-git clone https://github.com/leonardphokane/leonard-portfolio.git
+Clone the repository and run locally:
 
-# Navigate into the project folder
-cd leonard-portfolio
-
-# Open the portfolio in your browser
+```bash
+git clone https://github.com/leonardphokane/My_Portfolio.git
+cd My_Portfolio
 open index.html
 
 
---
+---
 
 ## 📬 Contact Me
 
