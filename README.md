@@ -1,5 +1,3 @@
-# Leonard Phokane – Web Developer Portfolio
-
 
 # 👋 Welcome to My GitHub Profile
 
