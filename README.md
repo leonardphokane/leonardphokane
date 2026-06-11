@@ -1,4 +1,11 @@
 # Leonard Phokane – Web Developer Portfolio
+
+---
+
+# 👋 Welcome to My GitHub Profile
+
+[Click here to view my live portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)
+
 ---
 ## 🌌 The Arabic Journey
 ![The Arabic Journey](https://github.com/leonardphokane/leonard-portfolio/blob/main/assets/the-arabic-journey.jpg)
@@ -11,18 +18,6 @@
 I’m **Leonard Phokane** — Tech Founder of **UbuntuFlow Tech Labs**, Freelance Full‑Stack & Flutter Developer, and Oracle/Microsoft Certified AI Associate.  
 My academic journey spans **UNISA (BSc IT)**, **Power Learn Project Africa**, and certifications across **Oracle, Microsoft Azure, IBM, NVIDIA, and Otermans Institute**.  
 
-I specialize 
-
----
-
-Welcome to my personal portfolio repository.  
-This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter Developer, and Ethical AI Technologist**, blending **cloud‑native architecture, recruiter‑ready design, and Afro‑futurist storytelling**.
-
----
-
-## 🌐 View Live Demo
-
-👉 [Click here to view the live portfolio](https://leonardphokane.github.io/leonard-portfolio/)
 
 
 ---
