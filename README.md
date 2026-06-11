@@ -8,7 +8,8 @@
 
 ---
 ## 🌌 The Arabic Journey
-![The Arabic Journey](https://github.com/leonardphokane/leonard-portfolio/blob/main/assets/the-arabic-journey.jpg)
+![The Arabic Journey](The-Arabic-Journey-ArtWork-scaled.jpg)
+
 
 > *"When I'm gone, let my functions speak."*
 
