@@ -47,7 +47,7 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
 ## 🛠️ Setup
 Clone the repository and run locally:
 
-```bash
+bash
 git clone https://github.com/leonardphokane/leonard-portfolio.git
 cd leonard-portfolio
 open index.html
