@@ -1,6 +1,9 @@
 
 # 👋 Welcome to My GitHub Profile
 
+This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter Developer, and Ethical AI Technologist**, blending **cloud‑native architecture, recruiter‑ready design, and Afro‑futurist storytelling**.
+
+
 ## 🌐 View Live Demo
 
 👉 [Click here to view the live portfolio](https://leonardphokane.github.io/leonard-portfolio/)
