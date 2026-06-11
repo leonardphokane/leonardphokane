@@ -79,3 +79,5 @@ open index.html
 
 🐙 GitHub: [github.com/leonardphokane](https://github.com/leonardphokane)
 
+🏅 Credly: [credly.com/users/leonard-phokane](https://www.credly.com/users/leonard-phokane)
+
