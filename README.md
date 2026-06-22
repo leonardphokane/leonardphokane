@@ -73,7 +73,7 @@ open index.html
 
 📧 Email: [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)  
 
-🌐 Portfolio: [Live Portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)  
+🌐 Portfolio: [Live Portfolio](https://phokane-creative-code.lovable.app/)  
 
 💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonard-phokane)  
 
