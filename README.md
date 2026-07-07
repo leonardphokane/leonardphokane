@@ -11,7 +11,7 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
 
 ---
 ## 🌌 The Arabic Journey
-![The Arabic Journey](The-Arabic-Journey-ArtWork-scaled.jpg)
+![The Arabic Journey](profile.png)
 
 
 > *"When I’m gone, may my functions still run with truth. Let my code carry truth louder than my voice ever could."*
